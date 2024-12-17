@@ -1,0 +1,50 @@
+1. Write a query to list employees, their projects, and hours logged, with projects having more than 100 hours total.
+
+2. Find employees with the most logged hours across all projects.
+
+3. Display department names and the total salary paid to employees in each department.
+
+4. Retrieve employees whose salaries are above the average salary across the company.
+
+5. Write a query to display projects that started after 2023 and do not have any employees assigned yet.
+
+6. Using a CASE statement, classify transactions as "High Value" if the amount is greater than 5,000; otherwise, classify them as "Low Value."
+
+
+7. Identify the project(s) with the most employees assigned.
+
+8. Display departments and the count of employees earning below 50,000.
+
+9. Write a query to find the 5 employees with the highest salaries who have worked on the most projects.
+
+10. Retrieve project names and the average hours logged per employee for each project.
+
+11. Write a query to display transaction amounts for employees hired in 2022 or later.
+
+12. Identify employees who have not logged any hours on projects but have received salary transactions.
+
+13. Find departments with no employees using a LEFT JOIN.
+
+
+14.
+Retrieve the employees who have worked on more than one project and logged over 200 hours in total.
+15.
+Write a query to fetch projects where no hours have been logged by employees.
+16.
+Display employees who have received both a
+bonus
+and a
+deduction
+in their transactions.
+17.
+Identify employees with missing or null
+last_name
+values and classify them as "Data Issue."
+18.
+Using a
+self join
+, display pairs of employees in the same department with different salaries.
+19.
+Write a query to calculate the total hours logged for each employee and classify them into "High Performer" (> 100 hours) or "Normal Performer."
+20.
+Find the latest transaction date for each employee who received a salary payment.
